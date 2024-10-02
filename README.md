@@ -1,2 +1,2 @@
-# da_rep_project
+# Data Analysis Sample Projects
 Replicate projects from other contributors, with slight changes
